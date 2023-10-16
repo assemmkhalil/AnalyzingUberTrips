@@ -1,5 +1,5 @@
 # Analyzing Uber Trips in New York:
-![Dashboard](https://github.com/assemmkhalil/AnalyzingUberTrips/assets/126206911/09b02060-64ce-41d6-ab7d-ac0a283292bb)
+![Dashboard](https://github.com/assemmkhalil/AnalyzingUberTrips/assets/126206911/eda1f94b-93ab-4898-9385-c1199ef39ac0)
 
 
 ## Introduction:
