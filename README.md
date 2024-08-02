@@ -1,20 +1,22 @@
 # Analyzing Uber Trips in New York:
-![Dashboard](https://github.com/assemmkhalil/AnalyzingUberTrips/assets/126206911/eda1f94b-93ab-4898-9385-c1199ef39ac0)
+![0- Dashboard](https://github.com/user-attachments/assets/df4bdce7-e3e7-4c64-bf78-f4ecb186d061)
 
 
 ## Introduction:
 This project aims to explore and analyze Uber pickup data in New York during the period from April to September 2014. <br>
 The primary objectives of this project are to gain insights into Uber pickup patterns, explore correlations between pickups and time, location, and weather conditions, and create visualizations to better understand the trends in the data.
 
+**Disclaimer:** It's important to consider that this analysis is limited by the time frame of the data and that the patterns of trips may vary seasonally due to factors like weather conditions, holidays, or special events. Further analysis with data over a longer time frame could reveal more about seasonal trends.
 
-## Data Collection and Preparation:
+
+## Data Collection and Processing:
 
 #### Data Collection:
 The project utilized two datasets:
 1. Uber Pickups Data: Obtained by FiveThirtyEight from the NYC Taxi & Limousine Commission (TLC), providing the date, time, and coordinates of Uber pickups in New York City from April to September 2014. [Source](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city)
 2. Weather Data: Scraped from the website [Weather Spark](https://weatherspark.com), providing hourly weather conditions in New York City for the same period.
 
-#### Data Preprocessing:
+#### Data Processing:
 * Uber datasets were concatenated, and the dates and hours were parsed.
 * Weather dataset was cleaned, with the dates parsed and the hours converted to 24-hour format, the numeric values parsed, and the categorical values standardized.
 
