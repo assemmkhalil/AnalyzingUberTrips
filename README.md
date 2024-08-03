@@ -13,7 +13,7 @@ The primary objectives of this project are to gain insights into Uber pickup pat
 
 #### Data Collection:
 The project utilized two datasets:
-1. Uber Pickups Data: Obtained by FiveThirtyEight from the NYC Taxi & Limousine Commission (TLC), providing the date, time, and coordinates of Uber pickups in New York City from April to September 2014. [Source](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city)
+1. Uber Pickups Data: Obtained by FiveThirtyEight from the NYC Taxi & Limousine Commission (TLC), providing the date, time, and coordinates of Uber pickups in New York City from April to September 2014 ([Source](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city)).
 2. Weather Data: Scraped from the website [Weather Spark](https://weatherspark.com), providing hourly weather conditions in New York City for the same period.
 
 #### Data Processing:
@@ -32,4 +32,4 @@ The project utilized two datasets:
 * EDA was performed by creating a series of visualizations to answer key questions and display crucial metrics. At the end, a comprehensive and interactive dashboard was built, incorporating the visualizations and metrics derived from the analysis.
 
 ## Findings and Insights:
-For the detailed findings and insights of the analysis, please refer to the notebook file.
+For the detailed findings and insights of the analysis, please refer to the [Notebook](https://github.com/assemmkhalil/AnalyzingUberTrips/blob/main/Notebook.pdf).
